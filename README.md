@@ -73,13 +73,14 @@ Clone this repository and follow these steps:
 
 ---
 
-##Sample Db data 
+## Sample Db data 
 1. Open app inspection 
 2. Choose data base option
 3. Go to the table name "tasks"
-4. open query editor and paste the below query
+4. open query editor and paste the query from [here](/sample_db_data)
 5. Click Run to execute the query.
 6. Verify that the data is successfully inserted into the tasks table.
+   
 
 
 
